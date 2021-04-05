@@ -1,0 +1,11 @@
+[2021-04-02T22:15:23,971][DEPRECATION][o.e.d.c.m.MetadataCreateIndexService] [KUBUNTU] index name [.kibana-event-log-7.12.0-000001] starts with a dot '.', in the next major version, index names starting with a dot are reserved for hidden indices and system indices
+[2021-04-02T22:16:21,398][DEPRECATION][o.e.d.r.a.a.i.RestGetMappingAction] [KUBUNTU] Type exists requests are deprecated, as types have been deprecated.
+[2021-04-02T22:16:21,434][DEPRECATION][o.e.d.r.a.a.i.RestPutMappingAction] [KUBUNTU] [types removal] Using include_type_name in put mapping requests is deprecated. The parameter will be removed in the next major version.
+[2021-04-02T22:16:21,663][DEPRECATION][o.e.d.r.a.s.RestSearchAction] [KUBUNTU] [types removal] Specifying types in bulk requests is deprecated.
+[2021-04-02T22:16:53,152][DEPRECATION][o.e.d.r.a.s.RestSearchAction] [KUBUNTU] [types removal] Specifying types in search requests is deprecated.
+[2021-04-03T14:01:26,017][DEPRECATION][o.e.d.r.a.a.i.RestGetMappingAction] [KUBUNTU] Type exists requests are deprecated, as types have been deprecated.
+[2021-04-03T14:01:26,104][DEPRECATION][o.e.d.r.a.s.RestSearchAction] [KUBUNTU] [types removal] Specifying types in bulk requests is deprecated.
+[2021-04-03T14:02:16,540][DEPRECATION][o.e.d.r.a.s.RestSearchAction] [KUBUNTU] [types removal] Specifying types in search requests is deprecated.
+[2021-04-04T22:48:42,840][DEPRECATION][o.e.d.r.a.a.i.RestGetMappingAction] [KUBUNTU] Type exists requests are deprecated, as types have been deprecated.
+[2021-04-04T22:48:42,906][DEPRECATION][o.e.d.r.a.s.RestSearchAction] [KUBUNTU] [types removal] Specifying types in bulk requests is deprecated.
+[2021-04-04T22:48:49,453][DEPRECATION][o.e.d.r.a.s.RestSearchAction] [KUBUNTU] [types removal] Specifying types in search requests is deprecated.
